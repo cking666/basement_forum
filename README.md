@@ -10,3 +10,9 @@ Composer version 2.2.0
 
 
 link project https://github.com/cking666/forum_basement
+
+
+Kekurangan project :
+1. Belom ada multiuser antara admin dan user.
+2. Desain setiap page masih berbeda warna.
+3. Belom mencoba fitur forgot password.
