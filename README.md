@@ -4,7 +4,7 @@
 <div id="badges" align="center">
      <img src="https://komarev.com/ghpvc/?username=cking666" alt=""/>
 </div>
-
+<img src="Screenshot_1.png" alt=""/>
 
 ### Tata cara untuk menggunakan project forum_basement :
 
