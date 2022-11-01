@@ -9,9 +9,8 @@ Tata cara untuk menggunakan project forum_basement :
 2. Import database bm_forum ke xampp.
 
 
-## 💻 
+## 💻 Versi Software yang digunakan :
 
-Versi yang digunakan:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
 * Laravel version 5.6.12 
 * PHP version 7.1.14
