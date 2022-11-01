@@ -13,9 +13,9 @@ import database bm_forum ke xampp.
 
 Versi yang digunakan:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-* Laravel version 5.6.12 `<linguagem / dependência / requeridos>`
-* PHP version 7.1.14 `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-* Composer version 2.2.0 `<guia / link / documentação_relacionada_ao_projeto>`.
+* Laravel version 5.6.12 
+* PHP version 7.1.14
+* Composer version 2.2.0
 
 
 link project https://github.com/cking666/forum_basement
