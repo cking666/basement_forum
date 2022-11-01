@@ -15,4 +15,4 @@ link project https://github.com/cking666/forum_basement
 Kekurangan project :
 1. Belom ada multiuser antara admin dan user.
 2. Desain setiap page masih berbeda warna.
-3. Belom mencoba fitur forgot password.
+3. Tombol search masih belom bisa
