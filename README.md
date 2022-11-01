@@ -4,9 +4,9 @@
 <div id="badges">
      <img src="https://komarev.com/ghpvc/?username=cking666" alt=""/>
 </div>
-1. Tata cara untuk menggunakan project forum_basement
+Tata cara untuk menggunakan project forum_basement:
 <br>
-2. mport database bm_forum ke xampp.
+2. Import database bm_forum ke xampp.
 
 
 ## 💻 
