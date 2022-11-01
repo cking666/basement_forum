@@ -4,7 +4,7 @@
 <div id="badges">
      <img src="https://komarev.com/ghpvc/?username=cking666" alt=""/>
 </div>
-Tata cara untuk menggunakan project forum_basement:
+Tata cara untuk menggunakan project forum_basement :
 <br>
 2. Import database bm_forum ke xampp.
 
@@ -18,7 +18,7 @@ Versi yang digunakan:
 * Composer version 2.2.0
 
 
-link project https://github.com/cking666/forum_basement
+Link project https://github.com/cking666/forum_basement
 
 ### kekurangan Project
 
